@@ -3,3 +3,4 @@ include/
 Releases/*
 Releases/*.*
 !Releases/build.bat
+.vs/*
