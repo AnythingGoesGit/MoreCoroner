@@ -9,10 +9,10 @@ namespace Coroner
 {
     public static class PluginInfo
     {
-        public const string PLUGIN_ID = "Coroner";
-        public const string PLUGIN_NAME = "Coroner";
+        public const string PLUGIN_ID = "MoreDeathNotes";
+        public const string PLUGIN_NAME = "MoreDeathNotes";
         public const string PLUGIN_VERSION = "1.0.0";
-        public const string PLUGIN_GUID = "com.elitemastereric.coroner";
+        public const string PLUGIN_GUID = "com.anythinggoesgit.moredeathnotes";
     }
 
     [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]

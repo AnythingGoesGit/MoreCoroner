@@ -3,13 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     
-    <Company>EliteMasterEric</Company>
-    <AssemblyName>MoreCoroner</AssemblyName>
-    <GUID>com.anythinggoesgit.morecoroner</GUID>
+    <Company>AnythingGoesGit</Company>
+    <AssemblyName>MoreDeathNotes</AssemblyName>
+    <GUID>com.anythinggoesgit.moredeathnotes</GUID>
     <Version>1.3.0</Version>
 
-    <Title>MoreCoroner</Title>
-    <Description>Rework the Performance Report with new info, including cause of death.</Description>
+    <Title>MoreDeathNotes</Title>
+    <Description>Update the Performance Report to include new information, such as the cause of death.</Description>
 
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
