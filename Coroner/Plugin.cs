@@ -11,7 +11,7 @@ namespace Coroner
     {
         public const string PLUGIN_ID = "MoreDeathNotes";
         public const string PLUGIN_NAME = "MoreDeathNotes";
-        public const string PLUGIN_VERSION = "1.0.0";
+        public const string PLUGIN_VERSION = "1.3.0";
         public const string PLUGIN_GUID = "com.anythinggoesgit.moredeathnotes";
     }
 
